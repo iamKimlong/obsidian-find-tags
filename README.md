@@ -1,4 +1,4 @@
-# find-tags-obsidian
+j# find-tags-obsidian
 This is a shell script to find any tags inside a specified directory.
 
 ## Usage
@@ -12,5 +12,7 @@ The first function list all available tags in all .md files within the specified
 The second function search for files that contain that specific tags
 
 ## Additional Info
+
+*THIS IS NOT AN OBSIDIAN PLUGIN*. This is more on a script replicating what obsidian could do which is listing files that contain a certain tags and listing all tags.
 
 Although this could be done with ripgrep, the `--list-tags` function can list distinct tags just like in *Obsidian*. The `--search` function can be done easily with ripgrep or telescope live grep in neovim.
