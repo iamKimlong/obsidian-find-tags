@@ -1,6 +1,10 @@
 # find-tags-obsidian
 This is a shell script to find any tags inside a specified directory.
 
+## Prerequisites
+
+Make sure to make the script executable `chmod +x /path/to/script.sh`
+
 ## Usage
 
 There are 2 available functions:
