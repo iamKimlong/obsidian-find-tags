@@ -1,4 +1,4 @@
-# find-tags-obsidian
+# obsidian-find-tags
 This is a shell script to find any tags inside a specified directory.
 
 ## Prerequisites
